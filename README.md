@@ -26,7 +26,7 @@ Correlation Analysis:
 Created a correlation matrix to observe the relationships between features.
 Applied Principal Component Analysis (PCA) to reduce dimensionality since many features exhibited high correlation, thereby reducing multicollinearity. 
 
-The number of features to be retained was determined by plotting the graph between retained variance and the number of features
+The optimal number of features for decomposition was determined by plotting a graph that relates retained variance to the number of features.
 
 ## Prediction Results
 
